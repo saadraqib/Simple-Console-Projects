@@ -1,4 +1,14 @@
 "Ow my bad, this file contains alot of redundant codes"
+"""I know it contains to many redundant codes but it's on of my old project and
+here is instruction how to play
+This a fifteen game have such a popularity in the world and you have to reorder all numbers to it's original position
+like that
+1     2     3     4
+5     6     7     8
+9     10    11    12
+13    14    15    -
+
+"""
 
 
 import random
