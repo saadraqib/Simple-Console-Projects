@@ -88,50 +88,5 @@ L ---> Left
       """)
 game = FifteenGame()
 game
-#         self.print_map()
-# row1 = map[0:4]
-# row2 = map[4:8]
-# row3 = map[8:12]
-# row4 = map[12:16]
-# print(f" {row1} \n {row2} \n {row3} \n {row4} ")
-
-# if move == "D":
-#     self.map[self.space] = self.map[self.space + 4]
-#     self.map[self.space+4] = self.map[self.space]
-#     self.print_map()
-# if move == "R":
-#     self.map[self.space] = self.map[self.space + 1]
-#     self.map[self.space+1] = self.map[self.space]
-#     self.print_map()
-# if move == "L":
-#     self.map[self.space] = self.map[self.space - 1]
-#     self.map[self.space-1] = self.map[self.space]
-#     self.print_map()
 
 
-# game = FifteenGame()
-# game
-
-
-# x = []
-
-
-# def array(row, col):
-#     for i in range(0, row):
-#         x.append([])
-#         for j in range(0, col):
-#             x[i].append(j)
-#     return x
-
-
-# def split(array):
-#     for x in range(0, len(array)):
-#         for y in range(0, len(array)):
-#             print(array[x][y], end=" | ")
-#         print("\n", "-"*len(array)*len(array))
-#     return array[x][y]
-
-
-# x = array(3, 3)
-# x[1][1] = "D"
-# split(x)
