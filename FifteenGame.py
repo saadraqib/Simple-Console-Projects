@@ -1,4 +1,4 @@
-""Ow my bad, this file contains alot of redundant codes"
+"Ow my bad, this file contains alot of redundant codes"
 
 
 import random
