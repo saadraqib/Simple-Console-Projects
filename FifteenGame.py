@@ -1,7 +1,12 @@
+""Ow my bad, this file contains alot of redundant codes"
+
+
 import random
 import os
 
+
 Print("Fifteen Game")
+
 class FifteenGame:
     def __init__(self, step=0):
 
